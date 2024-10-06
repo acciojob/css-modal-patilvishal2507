@@ -1,4 +1,4 @@
-//your JS code here. If required.
+
 document.getElementById('openModal').onclick = function() {
   document.getElementById('myModal').style.display = "block";
 }
@@ -14,7 +14,4 @@ window.onclick = function(event) {
 document.querySelector('.close-modal').onclick = function() {
   document.getElementById('myModal').style.display = "none";
 }
-</script>
 
-</body>
-</html>
